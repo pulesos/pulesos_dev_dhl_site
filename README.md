@@ -6,4 +6,4 @@ DHL — международная компания экспресс-доста�
 
 Добавил на JS: Модальные окна, аккордион и табы
 
-[Demo](#https://pulesos.github.io/pulesos_dev_dhl_site)
+[Demo](https://pulesos.github.io/pulesos_dev_dhl_site)
